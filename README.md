@@ -13,8 +13,8 @@
 </div>
  
 <br>
- 
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+
+ #Se quiser aprender comigo, me siga
  
 <div> 
   
